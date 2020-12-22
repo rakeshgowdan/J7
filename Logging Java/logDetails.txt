@@ -1,0 +1,8 @@
+Oct 30, 2020 6:54:48 PM Com.ty.Logging.Driver main
+WARNING: Warning message
+Oct 30, 2020 6:54:48 PM Com.ty.Logging.Driver main
+SEVERE: Severe message
+Oct 30, 2020 6:55:56 PM Com.ty.Logging.Driver main
+WARNING: Warning message
+Oct 30, 2020 6:55:56 PM Com.ty.Logging.Driver main
+SEVERE: Severe message
